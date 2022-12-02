@@ -1,1 +1,3 @@
-ECHO is on.
+A Y
+B X
+C Z
